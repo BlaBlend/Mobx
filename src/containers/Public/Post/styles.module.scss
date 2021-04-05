@@ -1,0 +1,12 @@
+.content {
+  margin-top: 25px;
+}
+
+.posts {
+  padding-left: 25px !important;
+
+  > div {
+    background: #fafafa;
+    padding: 25px;
+  }
+}

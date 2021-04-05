@@ -1,0 +1,30 @@
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  flex: 1;
+
+  .form {
+    width: 330px;
+    padding: 25px;
+    background: #fff;
+    border-radius: 5px;
+
+    .icon {
+      text-align: center;
+      font-size: 40px;
+      margin: 0 auto 20px auto;
+      display: block;
+    }
+
+    .alert {
+      margin-bottom: 25px;
+    }
+
+    .search {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  }
+}

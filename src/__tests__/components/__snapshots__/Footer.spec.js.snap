@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Name of the group renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`footer renders properly 1`] = `ShallowWrapper {}`;

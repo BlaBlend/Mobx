@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+
+  > span{
+    flex: 1;
+    font-size: 20px;
+    font-weight: bold;
+
+    a {
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+
+  .user {
+    color: #fff;
+    
+    .avatar {
+      margin-right: 10px;
+    }
+
+    .signOut {
+      text-decoration: underline;
+      cursor: pointer;
+    }
+  }
+}
